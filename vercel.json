@@ -2,10 +2,6 @@
   "build": {
     "env": {
       "FFMPEG_BINARY": "ffmpeg"
-    },
-    "commands": [
-      "npm install @ffmpeg-installer/ffmpeg",
-      "apt-get update && apt-get install -y imagemagick"
-    ]
+    }
   }
 }
