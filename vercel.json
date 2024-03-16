@@ -1,7 +1,0 @@
-{
-  "build": {
-    "env": {
-      "FFMPEG_BINARY": "ffmpeg"
-    }
-  }
-}
